@@ -2,3 +2,4 @@ data/
 *.pyc
 nohup.out
 *.bc
+*.h5
